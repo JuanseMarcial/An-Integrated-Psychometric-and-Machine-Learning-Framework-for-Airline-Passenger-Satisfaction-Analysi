@@ -1,6 +1,6 @@
 # Airline Passenger Satisfaction: An Integrated Psychometric and Machine Learning Framework
 
-**Author:** Juan Sebastian Marcial Piedra
+**Author:** Juan Sebastián Marcial Piedra
 **Institution:** IE University, Bachelor in Data and Business Analytics
 **Course:** Capstone Project, 4th Year
 **Date:** March 2026
